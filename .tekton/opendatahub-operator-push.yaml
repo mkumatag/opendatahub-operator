@@ -22,7 +22,7 @@ spec:
   - name: revision
     value: '{{revision}}'
   - name: output-image
-    value: quay.io/redhat-user-workloads/mkumatag3-tenant/opendatahub-operator:{{revision}}
+    value: quay.io/mkumatag/opendatahub-operator:{{revision}}
   - name: build-platforms
     value:
     - linux/x86_64
