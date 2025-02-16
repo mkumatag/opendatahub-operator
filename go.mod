@@ -11,7 +11,7 @@ require (
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/ginkgo/v2 v2.14.0
 	github.com/onsi/gomega v1.30.0
-	github.com/openshift/addon-operator/apis v0.0.0-20230919043633-820afed15881
+	github.com/openshift/addon-operator/apis v0.0.0-20231110045543-dd01f2f5c184
 	github.com/openshift/api v0.0.0-20230823114715-5fdd7511b790
 	github.com/openshift/custom-resource-status v1.1.2
 	github.com/operator-framework/api v0.18.0
@@ -77,7 +77,7 @@ require (
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/common v0.55.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
-	github.com/rhobs/obo-prometheus-operator/pkg/apis/monitoring v0.61.1-rhobs1 // indirect
+	github.com/rhobs/obo-prometheus-operator/pkg/apis/monitoring v0.66.0-rhobs1 // indirect
 	github.com/sirupsen/logrus v1.9.2 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/xlab/treeprint v1.2.0 // indirect
