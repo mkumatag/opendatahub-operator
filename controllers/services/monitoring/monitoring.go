@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	conditionsv1 "github.com/openshift/custom-resource-status/conditions/v1"
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 	k8serr "k8s.io/apimachinery/pkg/api/errors"
 	"k8s.io/apimachinery/pkg/api/meta"
 	"sigs.k8s.io/controller-runtime/pkg/client"
