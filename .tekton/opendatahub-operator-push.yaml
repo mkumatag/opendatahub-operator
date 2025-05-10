@@ -589,7 +589,8 @@ spec:
       optional: true
     - name: netrc
       optional: true
-  taskRunTemplate: {}
+  taskRunTemplate:
+    serviceAccountName: build-pipeline-opendatahub-operator
   workspaces:
   - name: git-auth
     secret:
