@@ -16,7 +16,7 @@ require (
 	github.com/openshift/custom-resource-status v1.1.2
 	github.com/operator-framework/api v0.18.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.68.0
+	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.84.0
 	github.com/prometheus/client_golang v1.20.5
 	github.com/rs/xid v1.6.0
 	github.com/spf13/afero v1.10.0
